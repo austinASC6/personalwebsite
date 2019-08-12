@@ -1,0 +1,13 @@
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+body{
+    background: url("https://cdn.ebaumsworld.com/mediaFiles/picture/2179450/82468486.gif");
+    background-size: cover;
+    background-color: black;
+
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
